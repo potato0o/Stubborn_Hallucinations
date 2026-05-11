@@ -1,0 +1,107 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Model checkpoints and cache
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.safetensors
+checkpoints/
+downloaded_models/
+model_cache/
+cached_models/
+transformers_cache/
+.cache/
+
+# Hugging Face
+.huggingface/
+huggingface_cache/
+
+# Datasets
+datasets/
+data/cache/
+*.hdf5
+*.h5
+
+# Logs and outputs
+logs/
+*.log
+*.out
+*.err
+wandb/
+mlruns/
+runs/
+tensorboard/
+
+# Results and experiments
+results/
+outputs/
+experiments/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Slurm
+slurm-*.out
+*.slurm
+
+# Shell scripts
+*.sh
+
+# Environment files (optional - uncomment if you want to ignore)
+# environment.yaml
+# .env
+
+# Large data files
+*.csv
+*.json
+!config/perturbations.json
+*.jsonl
+*.tsv
+*.parquet
+
+# Temporary files
+tmp/
+temp/
+*.tmp

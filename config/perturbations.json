@@ -1,0 +1,44 @@
+{
+    "brief_prompts": [
+        "Please answer this: "
+    ],
+    "sentence_prompts": [
+        "Answer the following question in a single brief but complete sentence.",
+        "Summarize the answer in one grammatically correct sentence.",
+        "You are a helpful assistant. Provide a one-sentence response.",
+        "State the fact clearly in a single line.",
+        "Respond with a short, complete statement.",
+        "Explain the answer in one brief sentence.",
+        "Chat mode: Give me the answer in a natural, short sentence.",
+        "Think about the answer and state it as a complete thought.",
+        "Synthesize the answer into one concise sentence.",
+        "Question: ${question} Answer (Sentence format):",
+        "Be polite but concise. One sentence only.",
+        "Formulate a single sentence that answers the question accurately.",
+        "You are a teacher. Give a one-sentence answer to the student.",
+        "Provide the information in a standalone sentence.",
+        "Draft a brief sentence containing the correct answer.",
+        "Speak naturally but keep it to one sentence.",
+        "Without rambling, answer in a complete sentence.",
+        "Construct a minimal sentence containing the fact.",
+        "Focus on clarity. One sentence answer.",
+        "Answer the question directly using Subject-Verb-Object format."
+    ],
+    "paraphrase_prompts": [
+        "paraphrase_1",
+        "paraphrase_2",
+        "paraphrase_3",
+        "paraphrase_4",
+        "paraphrase_5",
+        "paraphrase_6",
+        "paraphrase_7",
+        "paraphrase_8",
+        "paraphrase_9",
+        "paraphrase_10",
+        "paraphrase_11",
+        "paraphrase_12",
+        "paraphrase_13",
+        "paraphrase_14",
+        "paraphrase_15"
+    ]
+}
